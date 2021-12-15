@@ -1,0 +1,26 @@
+{
+  "name": "async-workshop-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComicScrip/async-workshop-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComicScrip/async-workshop-github/issues"
+  },
+  "homepage": "https://github.com/ComicScrip/async-workshop-github#readme",
+  "devDependencies": {
+    "prisma": "^3.6.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.6.0",
+    "axios": "^0.24.0"
+  }
+}
